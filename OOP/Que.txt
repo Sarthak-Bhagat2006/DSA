@@ -1,0 +1,35 @@
+1. What is OOPs, and what are the 4 pillars of Object-Oriented Programming?
+
+> OOP (Object-Oriented Programming) is a programming paradigm where programs are designed using objects and classes.
+> It helps in code reusability, security, scalability, and maintainability.
+>
+> The 4 pillars of OOP are:
+>
+> 1. **Encapsulation** – Wrapping data and methods into a single unit called a class and restricting direct access using access modifiers.
+>
+> 2. **Abstraction** – Hiding implementation details and showing only essential functionality to the user.
+>
+> 3. **Inheritance** – One class acquires properties and behaviors of another class, helping in code reuse.
+>
+> 4. **Polymorphism** – One method can behave differently in different situations. It is mainly of two types:
+>
+>    * Compile-time polymorphism (method overloading)
+>    * Runtime polymorphism (method overriding)
+
+
+### Question 2
+
+What is the difference between Abstraction and Encapsulation?
+
+> **Abstraction** focuses on hiding implementation details and showing only essential features to the user.
+> Example: In a car, the driver only knows how to drive using steering, brakes, and accelerator, but not the internal engine mechanism.
+>
+> **Encapsulation** focuses on wrapping data and methods together into a single unit (class) and protecting data using access modifiers.
+> Example: Bank account balance is kept private and can only be accessed using getter/setter methods.
+>
+> In short:
+>
+> * **Abstraction = Hides complexity**
+> * **Encapsulation = Hides data for security**
+
+
